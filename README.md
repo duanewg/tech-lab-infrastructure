@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/tech-lab-logo.jpeg" alt="Logo Text There" />
+<img src="assets/tech-lab-logo.jpeg" alt="Technology Lab" />
 </p>
 
 # Technology Lab Infrastructure Upgrade
