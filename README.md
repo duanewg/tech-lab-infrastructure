@@ -1,28 +1,35 @@
 <p align="center">
-<img src="https://place-hold.it/600x200" alt="Place Holder Image"/>
-<!-- <img src="assets/logo.svg" alt="Logo Text There" /> -->
+<img src="assets/tech-lab-logo.jpeg" alt="Logo Text There" />
 </p>
 
-# Project Title
-"[Project Name]" involves [briefly describe the main objective or purpose of the project] utilizing [mention any specific tools, technologies, or platforms]. This project aims to [mention the primary goal or outcome] to [highlight the intended impact or benefit].
+# Technology Lab Infrastructure Upgrade
+Updated the hardware infrastructure of a technology lab dedicated to teaching children and senior citizens basic computer skills. This initiative involved replacing outdated equipment with modern hardware to enhance the learning experience and facilitate effective teaching methods.
 
 ## Environments and Technologies Used
 
-- Item 1
-- Item 2
-- Item 3
+- 16 Lenovo Thinkcentre M93p workstations
+- FOG Project
+- Microsoft Office Professional Plus 2019
+- Bitdefender GravityZone
+- Adobe Creative Cloud
 
 ## Operating Systems Used
 
-- Operating System Name
+- Windows 10
 
 ## High-Level Deployment and Configuration Steps
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
-- Step 5
+- Survey the site and acquire the equipment required based on the workspace assessment
+- Configure the wireless access point
+- Replace HDDs with SSDs on all 16 workstations
+- Prepare first workstation to create an image for deployment
+    - Reinstall Windows operating systems and configure system settings
+    - Install and configure antivirus software
+    - Install Adobe Creative Cloud
+- Network boot to FOG Project software and save and image of the workstation
+- Network boot to FOG Project on the remaining 15 workstations and deploy the saved image to those machines
+- Test all workstations to ensure proper functionality
+
 
 <h2>Architecture Diagram</h2>
 
